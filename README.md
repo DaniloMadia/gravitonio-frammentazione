@@ -4,7 +4,10 @@
 **Autore:** Danilo Madia  
 **Firma pubblica:** DM.K08  
 **Licenza:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-**Repository DOI Zenodo:** [Da aggiungere dopo sincronizzazione]  
+**Repository DOI Zenodo:** 
+📄 DOI ufficiale Zenodo (v1.0): [10.5281/zenodo.16214295](https://doi.org/10.5281/zenodo.16214295)
+🔗 Zenodo Archive: https://zenodo.org/record/16214295
+📝 Licenza: [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
@@ -34,7 +37,8 @@ Il documento principale include:
 
 Se utilizzi, rielabori o estendi questo lavoro, per favore includi la seguente citazione:
 
-Madia, Danilo (2025). Teoria della Frammentazione Vibrazionale del Gravitonio. Zenodo. DOI: [da aggiornare]
+Madia, Danilo (2025). Teoria della Frammentazione Vibrazionale del Gravitonio. 
+in Zenodo. [doi:10.5281/zenodo.16214295](https://doi.org/10.5281/zenodo.16214295)
 
 ---
 
@@ -50,9 +54,22 @@ Qualsiasi utilizzo, studio o rilavorazione è benvenuto, ma si chiede di mantene
 
 ## 5. Collegamenti futuri
 
-- 🔗 GitHub Pages (versione interattiva e navigabile): [da generare]
-- 🔗 Zenodo DOI permanente: [da sincronizzare]
-- 🔗 Repository per codice di simulazione: [in sviluppo]
+- 🔗 GitHub Pages (versione interattiva e navigabile): [in sviluppo]
+- 🧿 Zenodo DOI permanente: [10.5281/zenodo.16214295](https://doi.org/10.5281/zenodo.16214295)
+-  Repository per teorico codice di simulazione: [bozza]
+
+## Collegamenti
+
+- 📄 Paper Zenodo: [10.5281/zenodo.16214295](https://doi.org/10.5281/zenodo.16214295)
+- 📁 Repository principale: [gravitonio-frammentazione](https://github.com/...) *(inserisci link)*
+
+## Licenza
+
+Distribuito sotto licenza [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+**DM.K08 – Nodo operativo: FV-Gravitonio – Simulazione attiva**
 
 ---
 
