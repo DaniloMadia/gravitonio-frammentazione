@@ -55,7 +55,18 @@ Qualsiasi utilizzo, studio o rilavorazione è benvenuto, ma si chiede di mantene
 ## 5. Collegamenti futuri
 
 - 🧿 Zenodo DOI permanente: [10.5281/zenodo.16214295](https://doi.org/10.5281/zenodo.16214295)
--  Repository per teorico codice di simulazione: [bozza]
+-  Repository per teorico codice di simulazione:
+  # Estensione Frattale e Armonica del Modello Quantistico del Gravitonio
+
+Questo lavoro estende la teoria pubblicata il 19 luglio 2025 (DOI: [10.5281/zenodo.16178217](https://zenodo.org/records/16178217)
+
+La presente simulazione introduce:
+- una struttura gerarchica frattale a tre rami,
+- un’analisi armonica basata su frequenze derivate dalla successione di Fibonacci,
+- regressioni log-log su costanti fondamentali del nostro universo.
+
+Autore: Danilo Madia  
+Versione: 1.0 – 20 luglio 2025
 
 ## Collegamenti
 
