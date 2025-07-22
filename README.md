@@ -54,7 +54,6 @@ Qualsiasi utilizzo, studio o rilavorazione è benvenuto, ma si chiede di mantene
 
 ## 5. Collegamenti futuri
 
-- 🔗 GitHub Pages (versione interattiva e navigabile): [in sviluppo]
 - 🧿 Zenodo DOI permanente: [10.5281/zenodo.16214295](https://doi.org/10.5281/zenodo.16214295)
 -  Repository per teorico codice di simulazione: [bozza]
 
