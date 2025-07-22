@@ -1,5 +1,5 @@
 # Teoria della Frammentazione Vibrazionale del Gravitonio
-
+ 
 **Versione:** 1.0  
 **Autore:** Danilo Madia  
 **Firma pubblica:** DM.K08  
